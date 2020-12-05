@@ -1,5 +1,5 @@
 import React from 'react';
-// import "./Component/csspart/ProfilPhoto.css";
+import './ProfilPhoto.css';
 function ProfilPhoto() {
   return (
     <div className="ProfilPhoto">

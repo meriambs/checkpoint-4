@@ -2,9 +2,10 @@
 import ProfilPhoto from './Component/Profile/ProfilPhoto';
 import FullName from './Component/Profile/FullName';
 import Adress from './Component/Profile/Address';
+
 import {Navbar,Nav,Form,FormControl,Button,}from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'
-//import { BsFillHeartFill } from "react-icons/bs";
+
 
 function App() {
   return (
